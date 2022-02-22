@@ -4,5 +4,4 @@ I started learning programming a year ago.
 
 Discord : LostName#8366
 
-Languages and Tools:
-bootstrap cplusplus csharp
+https://github-readme-stats.vercel.app/api?username=NightMare-1337
